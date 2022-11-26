@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(#a57027,#faeba5
+    );
+background-repeat: no-repeat;
+width: 100%;
+}
+
+.hero{
+    
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.hero img{
+    width: 100%;
+}
